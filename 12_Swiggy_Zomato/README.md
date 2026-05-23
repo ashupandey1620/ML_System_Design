@@ -25,7 +25,8 @@
 - Integrating and optimizing the operation of these three parts is crucial for success.
 
 [00:04:33]  
-**Key Innovation #1: Food Technology and Item Categorization**  
+**Key Innovation #1: Food Technology and Item Categorization** 
+<img width="517" height="453" alt="image" src="https://github.com/user-attachments/assets/7bd04ef6-f5d6-411a-9336-04ff335b81bf" />
 - The company internally developed a **food technology framework** to classify and rank food items systematically.  
 - They created a **hierarchical chart** to place food items into categories for better data organization, for example:  
   - Top level: Sweet dishes  
